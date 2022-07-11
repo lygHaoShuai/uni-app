@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/index/index",
+    "components/music-head/music-head",
+    "pages/list/list",
+    "pages/detail/detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#B500FE",
+    "backgroundColor": "#FFFFFF"
+  },
+  "requiredBackgroundModes": [
+    "audio"
+  ],
+  "usingComponents": {}
+}
